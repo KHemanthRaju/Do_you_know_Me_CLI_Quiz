@@ -14,19 +14,19 @@ var highscores = [
 ]
 
 var questions = [{
-  question : "Where do I live?",
+  question : "Where do I live? ",
   answer : "Bangalore",
 },{
-  question : "What is my favourite color",
+  question : "What is my favourite color? ",
   answer : "Black",
 },{
-  question : "Where do I work",
+  question : "Where do I work? ",
   answer : "Cerner",
 },{
-  question : "What is my favourite sport",
+  question : "What is my favourite sport? ",
   answer : "Cricket",
 },{
-  question : "My Favourite Cricket Player",
+  question : "My Favourite Cricket Player? ",
   answer : "Virat Kohli",
 }]
 
